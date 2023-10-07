@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<!--
 ### 📌 &nbsp;Pin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esubine&repo=linkarchive_backend)](https://github.com/esubine/linkarchive_backend)
 
