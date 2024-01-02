@@ -1,4 +1,5 @@
 ### 안녕하세요! BackEnd 개발자 이수빈입니다.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/esubine%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
 <!--
 **esubine/esubine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
